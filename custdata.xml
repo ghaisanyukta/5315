@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+  <customers>
+    <data>
+      <name>James Bond</name>
+      <company>Secret Service</company>
+      <emailid>jamesbond@secretservice.com</emailid>
+      <contactno>123-456-999</contactno>
+      <starting_date>2017/07/25</starting_date>
+      <location>Seattle</location>
+    </data>
+    <data>
+      <name>Tim Cook</name>
+      <company>Apple Inc</company>
+      <emailid>timcook@apple.com</emailid>
+      <contactno>123-456-888</contactno>
+      <starting_date>2017/01/01</starting_date>
+      <location>Cupertino</location>
+    </data>
+    <data>
+      <name>Jeff Bezos</name>
+      <company>Amazon</company>
+      <emailid>jeffb@amazon.com</emailid>
+      <contactno>123-456-777</contactno>
+      <starting_date>2017/10/01</starting_date>
+      <location>Seattle</location>
+    </data>
+    <data>
+      <name>Steve Jobs</name>
+      <company>Apple Inc</company>
+      <emailid>stevejobs@apple.com</emailid>
+      <contactno>123-456-666</contactno>
+      <starting_date>2009/07/25</starting_date>
+      <location>Cupertino</location>
+    </data>
+    <data>
+      <name>Elon Musk</name>
+      <company>Tesla</company>
+      <emailid>elonmusk@tesla.com</emailid>
+      <contactno>123-456-555</contactno>
+      <starting_date>2015/01/01</starting_date>
+      <location>Palo Alto</location>
+    </data>
+    <data>
+      <name>Bill Gates</name>
+      <company>Microsoft</company>
+      <emailid>billgates@microsoft.com</emailid>
+      <contactno>123-456-444</contactno>
+      <starting_date>2008/10/03</starting_date>
+      <location>Seattle</location>
+    </data>
+    <data>
+      <name>Satya Nadella</name>
+      <company>Microsoft</company>
+      <emailid>satyanadella@microsoft.com</emailid>
+      <contactno>123-456-333</contactno>
+      <starting_date>2012/07/01</starting_date>
+      <location>Seattle</location>
+    </data>
+    <data>
+      <name>Sundar Pichai</name>
+      <company>Google</company>
+      <emailid>sundarpichai@google.com</emailid>
+      <contactno>123-456-222</contactno>
+      <starting_date>2014/02/01</starting_date>
+      <location>Mountain View</location>
+    </data>
+    <data>
+      <name>Mark Zuckerburg</name>
+      <company>Facebook</company>
+      <emailid>markzuckerburg@facebook.com</emailid>
+      <contactno>123-456-111</contactno>
+      <starting_date>2013/06/01</starting_date>
+      <location>Menlo Park</location>
+    </data>
+    <data>
+      <name>Reed Hastings</name>
+      <company>Netflix</company>
+      <emailid>reedhastings@netflix.com</emailid>
+      <contactno>123-456-000</contactno>
+      <starting_date>2014/07/07</starting_date>
+      <location>Los Gatos</location>
+    </data>
+    <data>
+      <name>Dara Khosrowshahi</name>
+      <company>Uber</company>
+      <emailid>darakhosrowshahi@uber.com</emailid>
+      <contactno>123-999-999</contactno>
+      <starting_date>2017/01/01</starting_date>
+      <location>San Fransisco</location>
+    </data>
+    <data>
+      <name>John Legere</name>
+      <company>T-Mobile</company>
+      <emailid>johnlegere@tmobile.com</emailid>
+      <contactno>123-999-888</contactno>
+      <starting_date>2012/08/08</starting_date>
+      <location>Bellevue</location>
+    </data>
+    <data>
+      <name>Brad Smith</name>
+      <company>Intuit</company>
+      <emailid>bradsmith@intuit.com</emailid>
+      <contactno>123-999-777</contactno>
+      <starting_date>2008/07/05</starting_date>
+      <location>Mountain View</location>
+    </data>
+    <data>
+      <name>Ryan Smith</name>
+      <company>Qualtrics</company>
+      <emailid>ryansmith@qualtrics.com</emailid>
+      <contactno>123-999-666</contactno>
+      <starting_date>2002/01/10</starting_date>
+      <location>Provo</location>
+    </data>
+    <data>
+      <name>Micheal Dell</name>
+      <company>Dell</company>
+      <emailid>michealdell@dell.com</emailid>
+      <contactno>123-999-555</contactno>
+      <starting_date>2000/04/01</starting_date>
+      <location>Round Rock</location>
+    </data>
+  </customers>
